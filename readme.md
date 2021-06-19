@@ -12,7 +12,7 @@
 - ⚽️ I’m a Sports Buff
 - 👯 Have a good idea ? Connect with me Let's Collaborate 
 - 🥅 2021 Goals: Learn something new at the end of every single month! 📖
-- ⚡ Fun fact about me : I hit the road if I need to think clear 🛣
+- ⚡ Fun fact about me : I hit the road 🛣 or Gym 🏋️ if I need to think clear 
 
 
 ### Connect with me:
