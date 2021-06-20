@@ -5,9 +5,11 @@
 
 
 <!-- ## I'm a Data Science Grad Student at IUB-->
-**About me:**
+### About me:
 
-🎓 Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/)
+🎓 Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/) , GPA : 4/ 4
+
+**Courses Taken** : Applied Algorithms, Elements Of Artificial Intelligence, Machine Learning, Statistics, Big Data, Software Engineering
 
 - ⚽️ I’m a Sports Buff
 - 👯 Have a good idea ? Connect with me Let's Collaborate 
