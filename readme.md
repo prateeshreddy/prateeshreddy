@@ -1,7 +1,7 @@
 <!-- Special Thanks to Pruthvi Vajja & codeSTACKr for the Template -->
 
 ### Hey, Thanks for taking a peek! 🥳 
-![](https://komarev.com/ghpvc/?username=prateeshreddy&style=plastic&label=profile+views&color=orange) (Count's my veiws too 🤷‍♂️ )
+![](https://komarev.com/ghpvc/?username=prateeshreddy&style=plastic&label=profile+views&color=orange) 
 
 
 <!-- ## I'm a Data Science Grad Student at IUB-->
@@ -54,7 +54,7 @@
 ---
 ## 🤝 Open to work
 
-Currently seeking full time positions for software developer engineer, data scientist, data engineer, web development roles.
+Currently seeking full time positions for software developer engineer, data scientist roles.
 -->
 
 ---
