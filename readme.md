@@ -9,7 +9,7 @@
 
 🎓 Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/) , GPA : 4/ 4
 
-**Courses Taken** : Applied Algorithms, Elements Of Artificial Intelligence, Machine Learning, Deep Learning Systems, Statistics, Big Data
+**Courses Taken** : Machine Learning, Advance Database Concepts, Elements of Artficial Intelligence, Deep Learning systems, Data Mining, Applied Algorithms, Big Data Management, Statistics
 
 - ⚽️ I’m a Sports Buff
 - 👯 Have a good idea ? Connect with me Let's Collaborate 
