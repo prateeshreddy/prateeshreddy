@@ -1,4 +1,4 @@
-<!-- Special Thanks to Pruthvi Vajja & codeSTACKr for the Template -->
+<!-- Special Thanks to codeSTACKr for the Template -->
 
 ### Hey, Thanks for taking a peek! 🥳 
 ![](https://komarev.com/ghpvc/?username=prateeshreddy&style=plastic&label=profile+views&color=orange) 
@@ -7,7 +7,8 @@
 <!-- ## I'm a Data Science Grad Student at IUB-->
 ### About me:
 
-🎓 Data Science Grad at [Indiana University Bloomington](https://datascience.indiana.edu/) , GPA : 4/ 4
+- 💼 Data Scientist at [Toyota Motors](https://www.toyota.com/usa/our-story)
+- 🎓 Data Science Graduate at [Indiana University Bloomington](https://datascience.indiana.edu/) , GPA : 4/ 4
 
 **Courses Taken** : Machine Learning, Advance Database Concepts, Elements of Artficial Intelligence, Deep Learning systems, Data Mining, Applied Algorithms, Big Data Management, Statistics
 
@@ -41,7 +42,6 @@
 [<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/aws/aws.png" />][resources]
 [<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][resources]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][resources]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][resources]
 [<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][resources]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][resources]
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][resources]
@@ -54,7 +54,7 @@
 ---
 ## 🤝 Open to work
 
-Currently seeking full time positions for software developer engineer, data scientist roles.
+Currently seeking full-time positions for Machine Learning Engineer, and Data Scientist roles.
 -->
 
 ---
@@ -73,4 +73,4 @@ Currently seeking full time positions for software developer engineer, data scie
 [resources]: https://prateeshreddy.github.io/Resources/
 
 
-<!-- Special Thanks to Pruthvi Vajja & codeSTACKr for the Template -->
+<!-- Special Thanks to codeSTACKr for the Template -->
